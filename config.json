@@ -1,0 +1,1 @@
+{\n  "token": "SEU_TOKEN_AQUI",\n  "prefix": ".",\n  "pixKey": "sua-chave-pix@email.com",\n  "rafflePrice": 10,\n  "maxNumbers": 10000,\n  "maxQuotasPerBuy": 100,\n  "ticketCategoryId": "CATEGORIA_ID_AQUI",\n  "comprovanteChannelId": "CANAL_ID_AQUI"\n}
